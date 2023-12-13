@@ -5,8 +5,10 @@
   "license": "MIT",
   "author": "Telegram Account <@tmfik>",
   "repository": {
-    "type": "url",
-    "url": "https://github.com/tmfik/anonymous-chat.git"
+    "type": "HTTPS",
+    "url": "https://github.com/tmfik/anonymous-chat.git",
+    "type": "CLI GitHub",
+    "url": "gh repo clone tmfik/anonymous-chat"
   },
   "main": "index.js",
   "scripts": {

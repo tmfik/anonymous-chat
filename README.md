@@ -4,7 +4,6 @@
 <h1 align="center">anonymous-chat</h1>
 
 <p>Modern Anonymous Chat</p>
-
 </div>
 
 </header>

@@ -1,7 +1,6 @@
 <header>
 
 <div align="center">
-<img src="assets/logo.png" alt="logo" height="90" align="center">
 <h1 align="center">anonymous-chat</h1>
 
 <p>Modern Anonymous Chat</p>
